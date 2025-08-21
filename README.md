@@ -1,4 +1,4 @@
-# #🛒 E-Commerce Automation Project
+# 🛒 E-Commerce Automation Project
 Overview
 
 This project automates the complete shopping journey on an e-commerce website using Selenium WebDriver with Python. The script mimics how a real customer would interact with the site — browsing products, adding them to the cart, adjusting quantities, and finally placing an order through the guest checkout process. It’s designed as a demonstration of functional testing, browser automation, and quality assurance practices.
