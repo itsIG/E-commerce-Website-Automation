@@ -33,32 +33,32 @@ Fills in customer details, billing address, and confirms the order.
 
 Technologies Used
 
-Python – Programming language
+• Python – Programming language
 
-Selenium WebDriver – Browser automation
+• Selenium WebDriver – Browser automation
 
-Google Chrome + ChromeDriver – Test environment
+• Google Chrome + ChromeDriver – Test environment
 
 How to Use
 
-Update the script with the correct product details and test data.
+1. Update the script with the correct product details and test data.
 
-Run the script to simulate the full shopping experience.
+2. Run the script to simulate the full shopping experience.
 
-Review logs and screenshots generated during execution.
+3. Review logs and screenshots generated during execution.
 
 Learnings & Takeaways
 
-Hands-on experience in designing automated test cases for web apps.
+• Hands-on experience in designing automated test cases for web apps.
 
-Improved skills in working with Selenium locators like XPath and CSS Selectors.
+• Improved skills in working with Selenium locators like XPath and CSS Selectors.
 
-Learned handling of dynamic content, forms, and unexpected behaviors during automation.
+• Learned handling of dynamic content, forms, and unexpected behaviors during automation.
 
 Future Enhancements
 
-Add support for running tests on multiple browsers (Firefox, Safari, Edge).
+• Add support for running tests on multiple browsers (Firefox, Safari, Edge).
 
-Improve reporting with detailed test results and embedded screenshots.
+• Improve reporting with detailed test results and embedded screenshots.
 
-Scale the framework to support data-driven testing for multiple products and variations.
+• Scale the framework to support data-driven testing for multiple products and variations.
