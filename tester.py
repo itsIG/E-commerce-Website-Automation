@@ -144,21 +144,21 @@ time.sleep(2)
 first_name=driver.find_element(By.ID,'input-payment-firstname')
 first_name.click()
 time.sleep(1)
-first_name.send_keys('test_first_name')
+first_name.send_keys('Ishaan')
 time.sleep(1)
 
 #last_name
 last_name=driver.find_element(By.ID,'input-payment-lastname')
 last_name.click()
 time.sleep(1)
-last_name.send_keys('test_last_name')
+last_name.send_keys('Gupta')
 time.sleep(1)
 
 #email
 email=driver.find_element(By.ID,'input-payment-email')
 email.click()
 time.sleep(1)
-email.send_keys('test@test.com')
+email.send_keys('ishaan@gmail.com')
 time.sleep(1)
 
 #telephone
@@ -172,14 +172,14 @@ time.sleep(1)
 address=driver.find_element(By.ID,'input-payment-address-1')
 address.click()
 time.sleep(1)
-address.send_keys('teststreet 187')
+address.send_keys('Testing @ India')
 time.sleep(1)
 
 #city
 city=driver.find_element(By.ID,'input-payment-city')
 city.click()
 time.sleep(1)
-city.send_keys('Frankfurt')
+city.send_keys('Noida')
 time.sleep(1)
 
 #postcode
@@ -194,14 +194,14 @@ time.sleep(1)
 country=driver.find_element(By.ID,'input-payment-country')
 dropdown_1=Select(country)
 time.sleep(1)
-dropdown_1.select_by_index(87)
+dropdown_1.select_by_index(106)
 time.sleep(1)
 
 #region
 region=driver.find_element(By.ID,'input-payment-zone')
 dropdown_2=Select(region)
 time.sleep(1)
-dropdown_2.select_by_visible_text('Hessen')
+dropdown_2.select_by_visible_text('Uttar Pradesh')
 time.sleep(1)
 
 #click continue 2
